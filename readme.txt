@@ -1,3 +1,5 @@
 git test
-git is a version control system.
-Git is free software.
+git is a distributed version control system.
+Git is free software distributed under the GPL.
+update readme.txt file,test git update function.
+add content to readme.txt, validate commond "git status".
